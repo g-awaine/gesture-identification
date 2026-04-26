@@ -1,4 +1,4 @@
-# gesture-identification
+# Gesture Identification
 
 
 1) Get code to use my webcam
